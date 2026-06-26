@@ -1,5 +1,5 @@
 # primera-administracion-de-bases-de-datos
-# primera-administracion-de-base-de-datos
+# Sistema de biblioteca el leer es saber
 ## 📋 Descripción de la base de datos
 
 Base de datos relacional completa para la administración de una biblioteca. Permite gestionar autores, libros, socios (miembros), préstamos y géneros literarios de forma eficiente y normalizada.
